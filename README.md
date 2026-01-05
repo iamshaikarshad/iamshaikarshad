@@ -32,10 +32,10 @@ Senior **Data Engineer** with **4+ years** of experience building **scalable dat
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,sql,bash,javascript,r" />
+<img src="https://skillicons.dev/icons?i=ai,python,django,flask,fastapi,anaconda,bash,javascript,r,azure,aws,git,bitbucket,blender,cloudflare,vscode,visualsudio" />
 
 ### ⚙️ Data Engineering
-<img src="https://skillicons.dev/icons?i=apache,kafka,docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes,kafka,docker" />
 
 - Apache Spark / PySpark  
 - Kafka, Azure Event Hubs  
@@ -58,7 +58,7 @@ Senior **Data Engineer** with **4+ years** of experience building **scalable dat
 - CI/CD, Containerization, MLOps  
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
 - PostgreSQL, SQL Server, Oracle  
 - MongoDB, DynamoDB, Redis  
