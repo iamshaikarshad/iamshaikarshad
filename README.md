@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-Senior **Data Engineer** with **4+ years** of experience building **scalable data platforms**,  
+Senior **Data Engineer** with **5+ years** of experience building **scalable data platforms**,  
 **real-time streaming systems**, and **production ML pipelines** across **Azure & AWS**.
 
 - 🔹 Specialized in **Kafka / Azure Event Hubs / Spark / PySpark**
