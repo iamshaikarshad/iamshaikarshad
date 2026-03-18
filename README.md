@@ -136,7 +136,7 @@ Senior **Data Engineer** with **5+ years** of experience building **scalable dat
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/arshad-shaik-76791713b/
 - 💻 GitHub: https://github.com/iamshaikarshad
-- 🌐 Portfolio: https://arshad-portfolio-omega.vercel.app/
+- 🌐 Portfolio: https://iamshaikarshad.vercel.app/
 - 🌐 Buiness website: https://mediwide.co.uk/
 - 📧 Email: Iamshaikarshad@gmail.com
 
